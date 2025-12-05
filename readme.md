@@ -1,12 +1,12 @@
-# SunrizeAI Pro - AI 기반 주식 투자 플랫폼 🚀
+# SunrizeAI Pro - AI 기반 주식 투자 플랫폼 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 소개 📊
+## 소개 
 
 SunrizeAI Pro는 최첨단 인공지능 기술을 활용한 주식 투자 플랫폼입니다. 실시간 시장 분석, 자동 매매, 포트폴리오 관리 등 투자자를 위한 종합적인 솔루션을 제공합니다.
 
-### 주요 기능 ✨
+### 주요 기능 
 
 - **실시간 AI 예측**
   - 빅데이터 기반의 AI가 실시간으로 시장을 분석
@@ -23,7 +23,7 @@ SunrizeAI Pro는 최첨단 인공지능 기술을 활용한 주식 투자 플랫
   - 포트폴리오 성과 분석
   - 시장 동향 및 인사이트 제공
 
-## 기술 스택 💻
+## 기술 스택 
 
 - **Frontend**: HTML5, CSS3, JavaScript, TailwindCSS
 - **Backend**: Python, Django
@@ -32,7 +32,7 @@ SunrizeAI Pro는 최첨단 인공지능 기술을 활용한 주식 투자 플랫
 - **차트**: TradingView, Chart.js
 - **실시간 데이터**: WebSocket
 
-## 설치 방법 🔧
+## 설치 방법 
 
 1. 저장소 클론
 
@@ -42,7 +42,7 @@ git clone https://github.com/yourusername/sunrize-ai-pro.git
 
 pip install -r requirements.txt
 
-## API 키 설정 🔑
+## API 키 설정 
 
 한국투자증권 API 사용을 위해 다음 정보가 필요합니다:
 - API Key
@@ -57,11 +57,11 @@ your_api_secret
 your_account_number
 ```
 
-## 라이선스 📝
+## 라이선스 
 
 이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
 
-## 기여하기 🤝
+## 기여하기 
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
